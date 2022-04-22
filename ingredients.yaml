@@ -1,0 +1,220 @@
+- name: Coconut Oil
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-coconut-oil-expeller-expressed-14-fl-oz-b074h5bv9y
+  conversion_factor: .924
+  consumptionUnit: tablespoon
+  consumptionGrams: 13.86
+
+- name: Extra Virgin Olive Oil
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-extra-virgin-olive-oil-cold-processed-mediterranean-blend-1014-fl-oz-b074y6wz8x
+  conversion_factor: .9
+  consumptionUnit: tablespoon
+  consumptionGrams: 13.5
+
+- name: Serrano Peppers
+  url: https://www.wholefoodsmarket.com/product/produce-serrano-pepper-b0787w921k
+
+- name: Eggs
+  url: https://www.wholefoodsmarket.com/product/vital-farms-organic-large-eggs-36-oz-b089c8jt7b
+  consumptionUnit: egg
+  consumptionGrams: 50
+  nutrients: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6470839/#:~:text=Egg%20is%20rich%20in%20phosphorus,to%20iron%20and%20zinc%20supply.
+
+- name: Broccoli
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-broccoli-florets-16-oz-b0812lws2s
+  nutrients: https://www.nutritionvalue.org/Broccoli%2C_unprepared%2C_chopped%2C_frozen_nutritional_value.html?size=85+g
+
+- name: Cauliflower
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-cauliflower-florets-16-oz-b0812kzpj4
+  nutrients: https://www.nutritionvalue.org/Cauliflower%2C_unprepared%2C_frozen_nutritional_value.html?size=85+g
+
+- name: Romaine
+  url: https://www.wholefoodsmarket.com/product/produce-organic-romaine-lettuce-b07812n26q
+
+- name: Collard Greens
+  url: https://www.wholefoodsmarket.com/product/produce-organic-collard-green-b0785vryvh
+
+- name: Mushrooms
+  url: https://www.wholefoodsmarket.com/product/produce-organic-white-mushroom-b07814mfc7
+
+- name: Radish
+  url: https://www.wholefoodsmarket.com/product/produce-organic-red-radish-bunch-b09qqlf423
+
+- name: Asparagus
+  url: https://www.wholefoodsmarket.com/product/produce-green-asparagus-b078zg3ths
+
+- name: Brussels Sprouts
+  url: https://www.wholefoodsmarket.com/product/produce-organic-brussels-sprouts-b07hk9l726
+
+- name: Avocado
+  url: https://www.wholefoodsmarket.com/product/calavo-bagged-hass-avocados-b07fxsz49r
+
+- name: Mustard
+  url: https://www.wholefoodsmarket.com/product/organicville-organic-stone-ground-mustard-12-oz-b00mfnax52
+  consumptionUnit: tablespoon
+  consumptionGrams: 15
+
+- name: Sardines (Smoked)
+  url: https://www.wholefoodsmarket.com/product/wild-planet-wild-sardines-in-extra-virgin-olive-oil-b00xmzo3qm
+  consumptionUnit: can
+  consumptionGrams: 85
+
+- name: Sardines
+  url: https://www.wholefoodsmarket.com/product/wild-planet-skinless-boneless-wild-sardine-fillets-in-olive-oil-425-oz-b07w7vcj1v
+  consumptionUnit: can
+  consumptionGrams: 85
+
+- name: Mackerel
+  url: https://www.wholefoodsmarket.com/product/wild-planet-wild-mackerel-fillets-b076vw85s5
+  consumptionUnit: can
+  consumptionGrams: 85
+
+- name: Tuna
+  url: https://www.wholefoodsmarket.com/product/wild-planet-wild-albacore-tuna-5-oz-b00cq7puim
+  consumptionUnit: can
+  consumptionGrams: 85
+
+- name: String Cheese
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-mozzarella-string-cheese-24pk-1-each-b074h6r58h
+  consumptionUnit: piece
+  consumptionGrams: 28
+
+- name: Avocado Oil
+  url: https://www.wholefoodsmarket.com/product/365-by-wfm-avocado-oil-254-fl-oz-b08sxszjwf
+  conversion_factor: .91
+  consumptionUnit: tablespoon
+  consumptionGrams: 13.65
+
+- name: Dubliner Cheese
+  url: https://www.wholefoodsmarket.com/product/kerrygold-grassfed-dubliner-irish-cheese-7oz-b001e96kuu
+
+- name: Keto Bites (cc)
+  url: https://www.wholefoodsmarket.com/product/bhu-foods-keto-chocolate-chip-cookie-dough-bites-529-oz-b07tt8fd4f
+  consumptionUnit: piece
+  consumptionGrams: 25
+
+- name: Keto Bites (dark)
+  url: https://www.wholefoodsmarket.com/product/bhu-foods-keto-double-dark-chocolate-chip-cookie-dough-bites-529-oz-b07tt8fkvx
+  consumptionUnit: piece
+  consumptionGrams: 25
+
+- name: Keto Bites (pb)
+  url: https://www.wholefoodsmarket.com/product/bhu-foods-peanut-butter-cookie-dough-bites-529-oz-b08dx5md5l
+  consumptionUnit: piece
+  consumptionGrams: 25
+
+- name: Keto Bites (mac)
+  url: https://www.wholefoodsmarket.com/product/bhu-foods-white-chocolate-macadamia-cookie-dough-bite-088-oz-b087xq5f64
+  consumptionUnit: piece
+  consumptionGrams: 25
+
+- name: Macadamia
+  url: https://www.wholefoodsmarket.com/product/whole-foods-market-premium-whole-macadamia-nuts-8-oz-b002hqnkvq
+
+- name: Babybel Cheese
+  url: https://www.wholefoodsmarket.com/product/babybel-mini-original-semisoft-cheese-6pk-45-ounce-b000qg54yu
+  consumptionUnit: piece
+  consumptionGrams: 21
+
+- name: Pumpkin Seeds
+  url: https://www.wholefoodsmarket.com/product/365-everyday-value-organic-pumpkin-seeds-8-ounce-b07gl6jlzy
+
+- name: Carrots
+  url: https://www.wholefoodsmarket.com/product/produce-organic-carrots-b07813yjl1
+
+- name: Red Bell Pepper
+  url: https://www.wholefoodsmarket.com/product/produce-organic-red-bell-pepper-b000rgyjqi
+
+- name: Green Bell Pepper
+  url: https://www.wholefoodsmarket.com/product/produce-organic-green-bell-pepper-b000p6j14k
+
+- name: Onion
+  url: https://www.wholefoodsmarket.com/product/produce-organic-white-onion-b0787z3t3b
+
+- name: Tomatos
+  url: https://www.wholefoodsmarket.com/product/produce-organic-tomato-on-the-vine-b000pkmaoy
+
+- name: Green Beans
+  url: https://www.wholefoodsmarket.com/product/produce-organic-green-beans-b0788kjxtd
+
+- name: Banana
+  url: https://www.wholefoodsmarket.com/product/produce-banana-b07fyykkqk
+  consumptionUnit: whole
+  consumptionGrams: 188
+
+- name: Strawberry
+  url: https://www.wholefoodsmarket.com/product/tomatero-organic-farm-organic-strawberries-b07pqnbkck
+
+- name: Peanuts
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-peanuts-dry-roasted-unsalted-16-oz-b07qmw5y77
+
+- name: Orange
+  url: https://www.wholefoodsmarket.com/product/produce-navel-orange-b000se9nug
+  consumptionUnit: whole
+  consumptionGrams: 140
+
+- name: Blackberries
+  url: https://www.wholefoodsmarket.com/product/produce-organic-blackberries-half-pint-b07814jrz7
+
+- name: Kiwi
+  url: https://www.wholefoodsmarket.com/product/produce-organic-kiwi-b077zxhwhh
+  consumptionUnit: whole
+  consumptionGrams: 69
+
+- name: Apple
+  url: https://www.wholefoodsmarket.com/product/produce-organic-fuji-apple-b000ytxxdi
+  consumptionUnit: whole
+  consumptionGrams: 192
+
+- name: Raisins
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-california-raisins-sundried-12-oz-b07qg4mn46
+
+- name: Corn Tortilla
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-stone-ground-corn-tortilla-8-oz-b084r4r9pk
+  consumptionUnit: whole
+  consumptionGrams: 226
+
+- name: Flackers (Rosemary)
+  url: https://www.wholefoodsmarket.com/product/doctor-in-the-kitchen-organic-rosemary-flackers-5-oz-b0078dq85s
+
+- name: Turkey Breast
+  url: https://www.wholefoodsmarket.com/product/365-everyday-value-organic-black-pepper-cracked-turkey-breast-b074h5y183
+  consumptionUnit: slice
+  consumptionGrams: 30
+
+- name: Cabbage
+  url: https://www.wholefoodsmarket.com/product/produce-organic-green-cabbage-b0787tk5fv
+
+- name: Bread
+  url: https://www.wholefoodsmarket.com/product/food-for-life-ezekiel-49-original-bread-24-oz-b000rey4mo
+  consumptionUnit: slice
+  consumptionGrams: 34
+
+- name: Jelly
+  url: https://www.wholefoodsmarket.com/product/crofters-organic-strawberry-premium-fruit-spread-165-oz-b004si9nhq
+
+- name: Milk
+  url: https://www.wholefoodsmarket.com/product/organic-valley-organic-whole-milk-grassmilk-b06xwl6tfw
+  conversion_factor: 1.035
+  consumptionUnit: cup
+  consumptionGrams: 248.4
+
+- name: Swiss Cheese
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-swiss-cheese-slices-8-oz-b07nrcgwys
+  consumptionUnit: slice
+  consumptionGrams: 23
+
+- name: Monterey Jack
+  url: https://www.wholefoodsmarket.com/product/365-everyday-value-shredded-monterey-jack-cheddar-8-oz-b07vm4mzs6
+
+- name: Yogurt
+  url: https://www.wholefoodsmarket.com/product/siggis-4-plain-skyr-yogurt-24-oz-b01knz4qec
+
+- name: Arugula
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-produce-organic-packaged-baby-arugula-b07pff27d1
+  skip: true
+  nutrients: https://www.nutritionvalue.org/Arugula%2C_raw_nutritional_value.html
+
+- name: Spinach
+  url: https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-produce-organic-packaged-baby-spinach-b082fjnkjv
+  nutrients: https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html
+  skip: true

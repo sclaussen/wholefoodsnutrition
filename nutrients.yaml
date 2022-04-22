@@ -1,0 +1,164 @@
+- name: Calories
+  alias: calories
+  unit: calories
+  alternate_unit:
+    unit: kcal
+
+- name: Total Fat
+  alias: fat
+  unit: g
+
+- name: Sat Fat
+  alias: saturatedFat
+  unit: g
+
+- name: Trans Fat
+  alias: transFat
+  unit: g
+
+- name: Polyunsaturated Fat
+  alias: polyunsaturatedFat
+  unit: g
+
+- name: Monounsaturated Fat
+  alias: monounsaturatedFat
+  unit: g
+
+- name: Cholesterol
+  alias: cholesterol
+  unit: mg
+
+- name: Sodium
+  alias: sodium
+  unit: mg
+
+- name: Carbohydrates
+  alias: carbohydrates
+  unit: g
+
+- name: Fiber
+  alias: fiber
+  unit: g
+
+- name: Sugars
+  alias: sugar
+  unit: g
+
+- name: Added Sugars
+  alias: addedSugar
+  unit: g
+
+- name: Sugar Alcohol
+  alias: sugarAlcohol
+  unit: g
+
+- name: Protein
+  alias: protein
+  unit: g
+
+- name: Zinc
+  alias: zinc
+  unit: mg
+
+- name: Vitamin K
+  alias: vitaminK
+  unit: µg
+  alternate_unit:
+    unit: mcg
+
+- name: Vitamin E
+  alias: vitaminE
+  unit: IU
+  alternate_unit:
+    unit: mg
+    conversion_factor: 1.5
+
+- name: Vitamin D
+  alias: vitaminD
+  unit: IU
+  alternate_unit:
+    unit: mcg
+    conversion_factor: 40
+
+- name: Vitamin C
+  alias: vitaminC
+  unit: mg
+
+- name: Vitamin B6
+  alias: vitaminB6
+  unit: mg
+
+- name: Vitamin B12
+  alias: vitaminB12
+  unit: mcg
+  alternate_unit:
+    unit: µg
+
+- name: Vitamin A
+  alias: vitaminA
+  unit: IU
+  alternate_unit:
+    unit: mcg
+    conversion_factor: 3.336
+
+- name: Thiamin
+  alias: thiamin
+  unit: mg
+
+- name: Selenium
+  alias: selenium
+  unit: mcg
+  alternate_unit:
+    unit: µg
+
+- name: Riboflavin
+  alias: riboflavin
+  unit: mg
+
+- name: Potassium
+  alias: potassium
+  unit: mg
+
+- name: Phosphorus
+  alias: phosphorus
+  unit: mg
+
+- name: Pantothenic Acid
+  alias: pantothenicAcid
+  unit: mg
+
+- name: Niacin
+  alias: niacin
+  unit: mg
+
+- name: Manganese
+  alias: manganese
+  unit: mg
+
+- name: Magnesium
+  alias: magnesium
+  unit: mg
+
+- name: Iron
+  alias: iron
+  unit: mg
+
+- name: Folic Acid
+  alias: folicAcid
+  unit: mcg
+  alternate_unit:
+    unit: µg
+
+- name: Folate
+  alias: folate
+  unit: mcg
+  alternate_unit:
+    unit: µg
+
+- name: Copper
+  alias: copper
+  unit: mg
+
+- name: Calcium
+  alias: calcium
+  unit: mg
