@@ -139,8 +139,9 @@ async function main() {
         // Add netcarbs to the macro nutrients
         let carbs = _.find(data, { name: 'carbohydrates' })
         let fiber = _.find(data, { name: 'fiber' })
+        let fiberAmount = fiber ? fiber.value : 0
         if (carbs) {
-            data.push({ name: "netCarbs", value: carbs.value - fiber.value })
+            data.push({ name: "netCarbs", value: carbs.value - fiberAmount })
         }
 
         serialize(data)
@@ -171,7 +172,7 @@ function mapBrand(brand) {
 }
 
 function serialize(data) {
-    p(data)
+    p4(data)
 
     y(data, 'name', '', '- ')
     y(data, 'brand')
@@ -240,7 +241,12 @@ function y(list, name, def, prefix) {
             }
             return
         }
-        console.log(pre + name + ': ' + (stanza.value || def))
+
+        if ("value" in stanza) {
+            console.log(pre + name + ': ' + stanza.value)
+        } else {
+            console.log(pre + name + ': ' + def)
+        }
         return
     }
 
